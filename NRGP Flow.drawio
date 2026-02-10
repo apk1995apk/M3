@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Page-1" id="YvGehV6N_qbtsgVv36nR">
-    <mxGraphModel dx="1500" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1601" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,6 +101,9 @@
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-33" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Ewaybill team creates ewaybill" vertex="1">
           <mxGeometry height="40" width="260" x="2239" y="930" as="geometry" />
         </mxCell>
+        <mxCell id="T3lg9WGCsiWyGmuKKnJ7-3" edge="1" parent="1" source="e9LOTVH3q6zxSdSOw8z8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T3lg9WGCsiWyGmuKKnJ7-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-34" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Goods Dispatch" vertex="1">
           <mxGeometry height="30" width="177" x="2280.5" y="1000" as="geometry" />
         </mxCell>
@@ -117,6 +120,37 @@
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Send for Defective inputs" vertex="1">
           <mxGeometry height="40" width="150" x="2520" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lg9WGCsiWyGmuKKnJ7-2" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="Credit availed on purchased goods" vertex="1">
+          <mxGeometry height="120" width="141.5" x="2298.25" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lg9WGCsiWyGmuKKnJ7-4" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="T3lg9WGCsiWyGmuKKnJ7-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2297" y="1130" as="sourcePoint" />
+            <mxPoint x="2150" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3lg9WGCsiWyGmuKKnJ7-6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="T3lg9WGCsiWyGmuKKnJ7-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2440" y="1130" as="sourcePoint" />
+            <mxPoint x="2580" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3lg9WGCsiWyGmuKKnJ7-7" connectable="0" parent="T3lg9WGCsiWyGmuKKnJ7-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.1969" y="-2" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3lg9WGCsiWyGmuKKnJ7-10" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry x="2207" y="1126" as="geometry">
+            <mxPoint x="3" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3lg9WGCsiWyGmuKKnJ7-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Reverse proportionate ITC in GSTR-3B" vertex="1">
+          <mxGeometry height="42" width="230" x="2035" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="T3lg9WGCsiWyGmuKKnJ7-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="No action in GSTR-3B" vertex="1">
+          <mxGeometry height="42" width="230" x="2475.75" y="1230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
