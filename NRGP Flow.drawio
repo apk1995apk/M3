@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Page-1" id="YvGehV6N_qbtsgVv36nR">
-    <mxGraphModel dx="1601" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1423" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Requester shares item details" vertex="1">
-          <mxGeometry height="50" width="260" x="2239" y="110" as="geometry" />
+          <mxGeometry height="50" width="260" x="274" y="60" as="geometry" />
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Purpose of sending part" vertex="1">
-          <mxGeometry height="42" width="230" x="2254.5" y="200" as="geometry" />
+          <mxGeometry height="42" width="230" x="289.5" y="150" as="geometry" />
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-38" edge="1" parent="1" source="e9LOTVH3q6zxSdSOw8z8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="e9LOTVH3q6zxSdSOw8z8-7">
           <mxGeometry relative="1" as="geometry" />
@@ -20,7 +20,7 @@
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-39" edge="1" parent="1" source="e9LOTVH3q6zxSdSOw8z8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2595.5" y="430" as="targetPoint" />
+            <mxPoint x="630.5" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-41" connectable="0" parent="e9LOTVH3q6zxSdSOw8z8-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Defective Inputs" vertex="1">
@@ -29,28 +29,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-6" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="Select purpose" vertex="1">
-          <mxGeometry height="98" width="121" x="2309" y="280" as="geometry" />
+          <mxGeometry height="98" width="121" x="344" y="230" as="geometry" />
         </mxCell>
         <mxCell id="nISCHZpYK2Z-VoWxs7TX-1" edge="1" parent="1" source="e9LOTVH3q6zxSdSOw8z8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="e9LOTVH3q6zxSdSOw8z8-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2161.5" y="557" />
+              <mxPoint x="196.5" y="507" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Send for Testing" vertex="1">
-          <mxGeometry height="40" width="154" x="2085" y="430" as="geometry" />
+          <mxGeometry height="40" width="154" x="120" y="380" as="geometry" />
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Send for Warranty" vertex="1">
-          <mxGeometry height="40" width="189" x="2274.5" y="430" as="geometry" />
+          <mxGeometry height="40" width="189" x="309.5" y="380" as="geometry" />
         </mxCell>
         <mxCell id="nISCHZpYK2Z-VoWxs7TX-2" edge="1" parent="1" source="e9LOTVH3q6zxSdSOw8z8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="e9LOTVH3q6zxSdSOw8z8-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2595.5" y="470" as="sourcePoint" />
+            <mxPoint x="630.5" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Finance Controller review &amp; approval" vertex="1">
-          <mxGeometry height="54" width="252" x="2243.5" y="530" as="geometry" />
+          <mxGeometry height="54" width="252" x="278.5" y="480" as="geometry" />
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-11" edge="1" parent="1" source="e9LOTVH3q6zxSdSOw8z8-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="e9LOTVH3q6zxSdSOw8z8-5" value="">
           <mxGeometry relative="1" as="geometry">
@@ -76,22 +76,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Inventory Team Action in ERP &amp; informs requester" vertex="1">
-          <mxGeometry height="52" width="260" x="2239" y="640" as="geometry" />
+          <mxGeometry height="52" width="260" x="274" y="590" as="geometry" />
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-21" edge="1" parent="1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="e9LOTVH3q6zxSdSOw8z8-20" value="Approval">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="2369.0000000000005" y="584" as="sourcePoint" />
+            <mxPoint x="404.00000000000045" y="534" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-27" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Requester sends DRF to Dispatch team" vertex="1">
-          <mxGeometry height="54" width="209" x="2265" y="730" as="geometry" />
+          <mxGeometry height="54" width="209" x="300" y="680" as="geometry" />
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-36" edge="1" parent="1" source="e9LOTVH3q6zxSdSOw8z8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="e9LOTVH3q6zxSdSOw8z8-33" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Dispatch Team creates NRGP challan &amp; shares with E-waybill team" vertex="1">
-          <mxGeometry height="62" width="212.5" x="2263.25" y="840" as="geometry" />
+          <mxGeometry height="62" width="212.5" x="298.25" y="790" as="geometry" />
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-29" edge="1" parent="1" source="e9LOTVH3q6zxSdSOw8z8-27" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="e9LOTVH3q6zxSdSOw8z8-28" value="sends transporter details">
           <mxGeometry relative="1" as="geometry">
@@ -99,13 +99,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-33" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Ewaybill team creates ewaybill" vertex="1">
-          <mxGeometry height="40" width="260" x="2239" y="930" as="geometry" />
+          <mxGeometry height="40" width="260" x="274" y="880" as="geometry" />
         </mxCell>
         <mxCell id="T3lg9WGCsiWyGmuKKnJ7-3" edge="1" parent="1" source="e9LOTVH3q6zxSdSOw8z8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T3lg9WGCsiWyGmuKKnJ7-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-34" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Goods Dispatch" vertex="1">
-          <mxGeometry height="30" width="177" x="2280.5" y="1000" as="geometry" />
+          <mxGeometry height="30" width="177" x="315.5" y="950" as="geometry" />
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-35" edge="1" parent="1" source="e9LOTVH3q6zxSdSOw8z8-33" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="e9LOTVH3q6zxSdSOw8z8-34" value="">
           <mxGeometry relative="1" as="geometry">
@@ -114,26 +114,26 @@
         </mxCell>
         <mxCell id="FED51DkiN-1hhaOG5_Yc-1" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="e9LOTVH3q6zxSdSOw8z8-9" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2595.5" y="470" as="sourcePoint" />
-            <mxPoint x="2496" y="557" as="targetPoint" />
+            <mxPoint x="630.5" y="420" as="sourcePoint" />
+            <mxPoint x="531" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e9LOTVH3q6zxSdSOw8z8-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Send for Defective inputs" vertex="1">
-          <mxGeometry height="40" width="150" x="2520" y="430" as="geometry" />
+          <mxGeometry height="40" width="150" x="555" y="380" as="geometry" />
         </mxCell>
         <mxCell id="T3lg9WGCsiWyGmuKKnJ7-2" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="Credit availed on purchased goods" vertex="1">
-          <mxGeometry height="120" width="141.5" x="2298.25" y="1070" as="geometry" />
+          <mxGeometry height="120" width="141.5" x="333.25" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="T3lg9WGCsiWyGmuKKnJ7-4" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="T3lg9WGCsiWyGmuKKnJ7-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2297" y="1130" as="sourcePoint" />
-            <mxPoint x="2150" y="1190" as="targetPoint" />
+            <mxPoint x="332" y="1080" as="sourcePoint" />
+            <mxPoint x="185" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T3lg9WGCsiWyGmuKKnJ7-6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" target="T3lg9WGCsiWyGmuKKnJ7-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2440" y="1130" as="sourcePoint" />
-            <mxPoint x="2580" y="1190" as="targetPoint" />
+            <mxPoint x="475" y="1080" as="sourcePoint" />
+            <mxPoint x="615" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T3lg9WGCsiWyGmuKKnJ7-7" connectable="0" parent="T3lg9WGCsiWyGmuKKnJ7-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
@@ -142,15 +142,85 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T3lg9WGCsiWyGmuKKnJ7-10" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
-          <mxGeometry x="2207" y="1126" as="geometry">
+          <mxGeometry x="242" y="1076" as="geometry">
             <mxPoint x="3" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T3lg9WGCsiWyGmuKKnJ7-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Reverse proportionate ITC in GSTR-3B" vertex="1">
-          <mxGeometry height="42" width="230" x="2035" y="1230" as="geometry" />
+          <mxGeometry height="42" width="230" x="70" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="T3lg9WGCsiWyGmuKKnJ7-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="No action in GSTR-3B" vertex="1">
-          <mxGeometry height="42" width="230" x="2475.75" y="1230" as="geometry" />
+          <mxGeometry height="42" width="230" x="510.75" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-110" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Non conformance raised by QA team" vertex="1">
+          <mxGeometry height="40" width="240.5" x="1423.75" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-153" edge="1" parent="1" source="ViiAPw8-PNfa26DPfQst-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ViiAPw8-PNfa26DPfQst-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-111" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="WH team moves material from RM locator to MRB locator" vertex="1">
+          <mxGeometry height="42" width="230" x="1429.5" y="127" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-118" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Send for Testing" vertex="1">
+          <mxGeometry height="40" width="154" x="1252" y="871" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-122" edge="1" parent="1" source="ViiAPw8-PNfa26DPfQst-110" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="ViiAPw8-PNfa26DPfQst-111" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-137" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="ViiAPw8-PNfa26DPfQst-138" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1762.5" y="910" as="sourcePoint" />
+            <mxPoint x="1663" y="997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-138" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Send for Defective inputs" vertex="1">
+          <mxGeometry height="40" width="150" x="1687" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-144" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Reverse proportionate ITC in GSTR-3B" vertex="1">
+          <mxGeometry height="42" width="230" x="1208.63" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-145" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="No action in GSTR-3B" vertex="1">
+          <mxGeometry height="42" width="230" x="1649.38" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-154" edge="1" parent="1" source="ViiAPw8-PNfa26DPfQst-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ViiAPw8-PNfa26DPfQst-156">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-148" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="QA team provides a form to buyer to fill the import details (e.g invoice ref, BoE, GRN)" vertex="1">
+          <mxGeometry height="42" width="230" x="1430" y="468" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-166" edge="1" parent="1" source="ViiAPw8-PNfa26DPfQst-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ViiAPw8-PNfa26DPfQst-165" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-152" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Supplier sends RMA (reference no.) &amp; GE QA team registers it" vertex="1">
+          <mxGeometry height="43" width="231" x="1429" y="197" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-158" edge="1" parent="1" source="ViiAPw8-PNfa26DPfQst-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ViiAPw8-PNfa26DPfQst-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-156" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Buyer takes CoE leader approval keeping Finance team in loop" vertex="1">
+          <mxGeometry height="42" width="230" x="1429" y="539" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-157" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="At the time of disptach QA team informs to WH to moved parts from MRB to Loan &amp; RIP locator" vertex="1">
+          <mxGeometry height="62" width="270" x="1409" y="921" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-159" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Finance team will submit the GR waiver application to bank" vertex="1">
+          <mxGeometry height="42" width="230" x="1429.5" y="693" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-160" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Custom team will check all the documents &amp; provides confirmation on email" vertex="1">
+          <mxGeometry height="42" width="230" x="1430" y="611" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-162" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Bank will process the GR waiver &amp; share original copy with GE Finance team" vertex="1">
+          <mxGeometry height="42" width="230" x="1429.5" y="771" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-163" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Finance team handovers original GRW to buyer" vertex="1">
+          <mxGeometry height="42" width="230" x="1429.5" y="843" as="geometry" />
+        </mxCell>
+        <mxCell id="ViiAPw8-PNfa26DPfQst-165" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="Returnable criteria" vertex="1">
+          <mxGeometry height="110" width="121" x="1483.5" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
