@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.3">
   <diagram name="Page-1" id="YvGehV6N_qbtsgVv36nR">
-    <mxGraphModel dx="1423" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1097" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,17 +195,32 @@
         <mxCell id="ViiAPw8-PNfa26DPfQst-157" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="At the time of disptach QA team informs to WH to moved parts from MRB to Loan &amp; RIP locator" vertex="1">
           <mxGeometry height="62" width="270" x="1409" y="921" as="geometry" />
         </mxCell>
+        <mxCell id="_Y3OC3mzqgM768FFH_vE-6" edge="1" parent="1" source="ViiAPw8-PNfa26DPfQst-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ViiAPw8-PNfa26DPfQst-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ViiAPw8-PNfa26DPfQst-159" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Finance team will submit the GR waiver application to bank" vertex="1">
           <mxGeometry height="42" width="230" x="1429.5" y="693" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y3OC3mzqgM768FFH_vE-5" edge="1" parent="1" source="ViiAPw8-PNfa26DPfQst-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ViiAPw8-PNfa26DPfQst-159">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ViiAPw8-PNfa26DPfQst-160" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Custom team will check all the documents &amp; provides confirmation on email" vertex="1">
           <mxGeometry height="42" width="230" x="1430" y="611" as="geometry" />
         </mxCell>
+        <mxCell id="_Y3OC3mzqgM768FFH_vE-7" edge="1" parent="1" source="ViiAPw8-PNfa26DPfQst-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ViiAPw8-PNfa26DPfQst-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ViiAPw8-PNfa26DPfQst-162" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Bank will process the GR waiver &amp; share original copy with GE Finance team" vertex="1">
           <mxGeometry height="42" width="230" x="1429.5" y="771" as="geometry" />
         </mxCell>
+        <mxCell id="_Y3OC3mzqgM768FFH_vE-4" edge="1" parent="1" source="ViiAPw8-PNfa26DPfQst-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ViiAPw8-PNfa26DPfQst-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ViiAPw8-PNfa26DPfQst-163" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Finance team handovers original GRW to buyer" vertex="1">
           <mxGeometry height="42" width="230" x="1429.5" y="843" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y3OC3mzqgM768FFH_vE-1" edge="1" parent="1" source="ViiAPw8-PNfa26DPfQst-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ViiAPw8-PNfa26DPfQst-148" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ViiAPw8-PNfa26DPfQst-165" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="Returnable criteria" vertex="1">
           <mxGeometry height="110" width="121" x="1483.5" y="270" as="geometry" />
