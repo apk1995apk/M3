@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.3">
   <diagram name="Page-1" id="YvGehV6N_qbtsgVv36nR">
-    <mxGraphModel dx="1097" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,10 +167,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ViiAPw8-PNfa26DPfQst-144" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Reverse proportionate ITC in GSTR-3B" vertex="1">
-          <mxGeometry height="42" width="230" x="1208.63" y="1020" as="geometry" />
+          <mxGeometry height="42" width="230" x="1245.5" y="1149" as="geometry" />
         </mxCell>
         <mxCell id="ViiAPw8-PNfa26DPfQst-145" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="No action in GSTR-3B" vertex="1">
-          <mxGeometry height="42" width="230" x="1649.38" y="1020" as="geometry" />
+          <mxGeometry height="42" width="230" x="1612" y="1149" as="geometry" />
         </mxCell>
         <mxCell id="ViiAPw8-PNfa26DPfQst-154" edge="1" parent="1" source="ViiAPw8-PNfa26DPfQst-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ViiAPw8-PNfa26DPfQst-156">
           <mxGeometry relative="1" as="geometry">
@@ -224,6 +224,15 @@
         </mxCell>
         <mxCell id="ViiAPw8-PNfa26DPfQst-165" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="Returnable criteria" vertex="1">
           <mxGeometry height="110" width="121" x="1483.5" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y3OC3mzqgM768FFH_vE-9" edge="1" parent="1" source="_Y3OC3mzqgM768FFH_vE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ViiAPw8-PNfa26DPfQst-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y3OC3mzqgM768FFH_vE-10" edge="1" parent="1" source="_Y3OC3mzqgM768FFH_vE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ViiAPw8-PNfa26DPfQst-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y3OC3mzqgM768FFH_vE-8" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="ITC Reversal basis destruction at supplier premises" vertex="1">
+          <mxGeometry height="140" width="145.5" x="1476.5" y="1039" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
